@@ -144,7 +144,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       home: Scaffold(
           appBar: AppBar(
-            title: const Text('Plugin example app'),
+            title: const Text('段原の血中酸素濃度'),
             actions: <Widget>[
               IconButton(
                 icon: Icon(Icons.file_download),
